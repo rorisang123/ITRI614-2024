@@ -1,6 +1,6 @@
 # ITRI614-2024
 
-##Repo for all deliverables
+**Repo for all deliverables**
 
 **Satellite Image Analysis System**
 
