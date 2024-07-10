@@ -1,0 +1,9 @@
+Overview = Wilco
+Document Organisation = wilco
+Goals and scope = chriselda
+technical process = Melissa
+deliverables = 
+risk management = Jevon
+Scheduling and estimates = Sarah and Oratile
+Measurements and Metrics = Mduduzi
+Appendix =
